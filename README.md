@@ -18,7 +18,7 @@
 
 # How to Update (วิธีอัพเดท)
 * หากปลั๊กอินไม่อัพเดทให้อัตโนมัติ สามารถอัพเดทเองได้โดย (จะทำหรือไม่ทำก็ได้แล้วแต่ศรัทธา)
-* คลิกขวาที่ตัวจัดการปลั๊กอิน
+* คลิกขวาที่ตัวจัดการปลั๊กอิน (เข้าผ่าน "ระบบ" -> "ส่วนเสริม" -> "รับส่วนเสริม" -> "uPlayHD XBMC Add-Ons")
 
 <p align="center" >
   <img src="https://github.com/iClosedz/uPlayHD-xbmc-addons/raw/master/img/how_to_update/how_to_update_1.jpg"  alt="How to manual update uPlayHD 1" title="How to manual update uPlayHD 1">
