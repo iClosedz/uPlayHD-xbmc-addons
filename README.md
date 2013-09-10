@@ -1,6 +1,4 @@
 # uPlayHD :p
-ปลั๊กอินนี้ เป็นปลั๊กอินที่ไว้ใช้ร่วมกับโปรแกรม XBMC
-ปลั๊กอินนี้ ทำไว้สำหรับดู ซีรี่ส์ ออนไลน์แบบ HD หรือจะ Download ไปดูก็ได้ 
 
 <p align="center" >
   <img src="https://github.com/iClosedz/uPlayHD-xbmc-addons/raw/master/img/icon.png"  alt="uPlayHD" title="uPlayHD">
@@ -8,6 +6,13 @@
 <p align="center" >
   <img src="https://github.com/iClosedz/uPlayHD-xbmc-addons/raw/master/img/main.jpg"  alt="uPlayHD-mainmemu" title="uPlayHD-mainmemu">
 </p>
+
+# Why XBMC ? (ทำไมต้อง XBMC ?)
+<p align="center" >เหตุผลง่ายๆตามรูปนะครับ</p>
+<p align="center" >
+  <img src="https://github.com/iClosedz/uPlayHD-xbmc-addons/raw/master/img/xbmc.jpg"  alt="XBMC" title="XBMC">
+</p>
+<p align="center" >หน้า [Download XBMC](http://xbmc.org/download/) สำหรับทุกแพลตฟอร์ม</p>
 
 # Get Started (วิธีติดตั้ง)
 * หากใครไม่เคยลง XBMC อ่านวิธีลงและดาวน์โหลดตัวภาษาไทยได้ [ที่นี่](http://www.overclockzone.com/forums/showthread.php/2104917-XBMC-12-ยอดมีเดียเซนเตอร์ตัวใหม่-ด้วยDXVA2-Thue-DTS-HD-ที่ใช้VGAได้คุ้มค่ายิ่งขึ้น)
@@ -18,7 +23,7 @@
 
 # How to Update (วิธีอัพเดท)
 * หากปลั๊กอินไม่อัพเดทให้อัตโนมัติ สามารถอัพเดทเองได้โดย (จะทำหรือไม่ทำก็ได้แล้วแต่ศรัทธา)
-* คลิกขวาที่ตัวจัดการปลั๊กอิน (เข้าผ่าน "ระบบ" -> "ส่วนเสริม" -> "รับส่วนเสริม" -> "uPlayHD XBMC Add-Ons")
+* คลิกขวาที่ตัวจัดการปลั๊กอิน (เข้าผ่าน "ระบบ" => "ส่วนเสริม" => "รับส่วนเสริม" => "uPlayHD XBMC Add-Ons")
 
 <p align="center" >
   <img src="https://github.com/iClosedz/uPlayHD-xbmc-addons/raw/master/img/how_to_update/how_to_update_1.jpg"  alt="How to manual update uPlayHD 1" title="How to manual update uPlayHD 1">
@@ -49,3 +54,6 @@
 - https://www.facebook.com/chsw67 > For support all new update links.
 - https://www.facebook.com/tang.hom.7 > For support all new update links.
 - https://github.com/dersphere > For advice
+
+## License
+- All code is open source licensed under GPL.
