@@ -12,7 +12,7 @@
 <p align="center" >
   <img src="https://github.com/iClosedz/uPlayHD-xbmc-addons/raw/master/img/xbmc.jpg"  alt="XBMC" title="XBMC">
 </p>
-<p align="center" >หน้า [Download XBMC](http://xbmc.org/download/) สำหรับทุกแพลตฟอร์ม</p>
+* หน้า [Download XBMC](http://xbmc.org/download/) สำหรับทุกแพลตฟอร์ม
 
 # Get Started (วิธีติดตั้ง)
 * หากใครไม่เคยลง XBMC อ่านวิธีลงและดาวน์โหลดตัวภาษาไทยได้ [ที่นี่](http://www.overclockzone.com/forums/showthread.php/2104917-XBMC-12-ยอดมีเดียเซนเตอร์ตัวใหม่-ด้วยDXVA2-Thue-DTS-HD-ที่ใช้VGAได้คุ้มค่ายิ่งขึ้น)
@@ -56,4 +56,4 @@
 - https://github.com/dersphere > For advice
 
 ## License
-- All code is open source licensed under GPL.
+- uPlayHD licensed under GPL.
