@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.uplayhd"
        name="uPlayHD"
-       version="0.0.3"
+       version="0.0.4"
        provider-name="iClosedz (iClosedz.blogspot.com)">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>

@@ -38,6 +38,8 @@
 * เชคเวอร์ชั่นของปลั๊กอินว่าตรงกับรายการอัพเดทด้านล่างหรือไม่
 
 ## Update List (รายการอัพเดท)
+	0.0.4 (19.10.2013)
+	 - Fixed some bugs.
 	0.0.3 (9.9.2013)
 	 - Fix New version update links.
 	 - Thank you (https://www.facebook.com/chsw67) for this new update links.
