@@ -38,6 +38,10 @@
 * เชคเวอร์ชั่นของปลั๊กอินว่าตรงกับรายการอัพเดทด้านล่างหรือไม่
 
 ## Update List (รายการอัพเดท)
+	1.0.0 (20.10.2013)
+	 - Release new menu option.
+	 - Minor changes.
+	 - Minor Bugs fixed.
 	0.0.4 (19.10.2013)
 	 - Fixed some bugs.
 	0.0.3 (9.9.2013)
