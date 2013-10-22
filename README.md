@@ -38,6 +38,11 @@
 * เชคเวอร์ชั่นของปลั๊กอินว่าตรงกับรายการอัพเดทด้านล่างหรือไม่
 
 ## Update List (รายการอัพเดท)
+	1.1.0 (22.10.2013)
+	 - New features update
+	 - add new kr series source
+	 - add new jp series source
+	 - add thai tv
 	1.0.1 (20.10.2013)
 	 - Fixed bugs - -"
 	1.0.0 (20.10.2013)
