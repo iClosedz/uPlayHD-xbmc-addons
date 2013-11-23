@@ -1,2 +1,0 @@
-0.0.1 (1.9.2013)
- - initial release
