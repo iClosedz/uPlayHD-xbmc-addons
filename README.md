@@ -38,6 +38,10 @@
 * เชคเวอร์ชั่นของปลั๊กอินว่าตรงกับรายการอัพเดทด้านล่างหรือไม่
 
 ## Update List (รายการอัพเดท)
+	1.1.2 (26.11.2013)
+	 - Mini Update.
+	1.1.1 (23.11.2013)
+	 - Mini Update.
 	1.1.0 (22.10.2013)
 	 - New features update
 	 - add new kr series source
