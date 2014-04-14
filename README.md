@@ -38,6 +38,11 @@
 * เชคเวอร์ชั่นของปลั๊กอินว่าตรงกับรายการอัพเดทด้านล่างหรือไม่
 
 ## Update List (รายการอัพเดท)
+	1.1.5 (14.04.2014)
+	 - Fixed bugs
+	 - Add new Sitcom - Thailand
+	 - Add new Kvariety
+	 - Add new AsianMovies
 	1.1.4 (20.12.2013)
 	 - Update TV - Thailand
 	1.1.3 (27.11.2013)
