@@ -35,51 +35,8 @@
   <img src="https://github.com/iClosedz/uPlayHD-xbmc-addons/raw/master/img/how_to_update/how_to_update_2.jpg"  alt="How to manual update uPlayHD 2" title="How to manual update uPlayHD 2">
 </p>
 
-* เชคเวอร์ชั่นของปลั๊กอินว่าตรงกับรายการอัพเดทด้านล่างหรือไม่
-
-## Update List (รายการอัพเดท)
-	1.1.5 (14.04.2014)
-	 - Fixed bugs
-	 - Add new Sitcom - Thailand
-	 - Add new Kvariety
-	 - Add new AsianMovies
-	1.1.4 (20.12.2013)
-	 - Update TV - Thailand
-	1.1.3 (27.11.2013)
-	 - Fixed mini bug.
-	1.1.2 (26.11.2013)
-	 - Mini Update.
-	1.1.1 (23.11.2013)
-	 - Mini Update.
-	1.1.0 (22.10.2013)
-	 - New features update
-	 - add new kr series source
-	 - add new jp series source
-	 - add thai tv
-	1.0.1 (20.10.2013)
-	 - Fixed bugs - -"
-	1.0.0 (20.10.2013)
-	 - Release new menu option.
-	 - Minor changes.
-	 - Minor Bugs fixed.
-	0.0.4 (19.10.2013)
-	 - Fixed some bugs.
-	0.0.3 (9.9.2013)
-	 - Fix New version update links.
-	 - Thank you (https://www.facebook.com/chsw67) for this new update links.
-	 - Thank you (https://www.facebook.com/tang.hom.7) for this new update links.
-	0.0.2 (1.9.2013)
-	 - Fix search movies bug, report by (https://www.facebook.com/rewat.re)
-	0.0.1 (1.9.2013)
-	 - initial release
-
 ## Creators
 - iClosedz ([fb.com/iClosedz](https://www.facebook.com/iClosedz)) พบบัคสามารถแจ้งได้ที่นี่จะพยายามแก้ไขให้ครับ
-
-## Thanks to
-- https://www.facebook.com/chsw67 > For support all new update links.
-- https://www.facebook.com/tang.hom.7 > For support all new update links.
-- https://github.com/dersphere > For advice
 
 ## License
 - uPlayHD licensed under GPL.
